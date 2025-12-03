@@ -1,7 +1,7 @@
 ## 💫 About Me:
 I'm a junior Full Stack .NET Developer driven by curiosity and a deep enthusiasm for coding, design, and problem-solving. I enjoy turning abstract ideas into practical, working software solutions using ASP.NET Core, MVC, and other modern web technologies. Beyond just writing code, I focus on understanding user needs, improving performance, and ensuring scalability in the applications I build. I’m eager to join a developer role where I can continue expanding my technical expertise, collaborate with talented teams, and create meaningful software that has a real-world impact. 
 
-<br><br>🔭 I’m currently working on Document Generation Projects from Hanadole Sdn. Bhd Company<br>🌱 I’m currently learning Angular and react.js
+<br><br>🔭 I’m currently working on Document Generation Projects from Hanadole Sdn. Bhd Company<br>🌱 I’m currently learning Angular and React.js
 
 
 ## 🌐 Socials:
